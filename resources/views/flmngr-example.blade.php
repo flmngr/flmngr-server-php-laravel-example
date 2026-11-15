@@ -23,7 +23,7 @@
              style="padding:20px"
         >
             <h2>Laravel File Manager demo</h2>
-            <a href="https://flmngr.com/doc/samples">More samples</a> with live CodePen demos.
+            <a href="https://flmngr.com/doc/samples">More samples</a> with live CodePlay demos.
 
             <div style="margin-top:50px">
                 <div id="btn" class="btn btn-primary" style="opacity:0.2;cursor:default">Select image</div>

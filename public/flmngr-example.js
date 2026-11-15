@@ -4,7 +4,7 @@ import Flmngr from "https://cdn.skypack.dev/flmngr";
 
 Flmngr.load(
     {
-        apiKey: "FLMNFLMN",
+        apiKey: "FLMN24RR1234123412341234",
         urlFileManager: '/flmngr',
         urlFiles: '/files'
     },
